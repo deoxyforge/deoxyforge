@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Deoxyforge</h1>
 
-<!--
-**deoxyforge/deoxyforge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Forge the Future.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About
+Building intelligent systems and crafting clean digital experiences.
+
+---
+
+## ⚙️ Focus
+AI • Design • Development
+
+---
+
+## 🚀 Projects
+- EchoLens (AI eyewear)
+- Attorno (Legal AI)
+
+---
+
+## 📊 Stats
+(GitHub stats here)
+
+---
+
+<p align="center">
+  Less noise. More impact.
+</p>
