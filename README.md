@@ -4,11 +4,11 @@
 
 
 <!-- PREMIUM SVG HEADER — Cormorant Garamond thin serif -->
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=58&duration=99999&pause=99999&color=E8C96A&center=true&vCenter=true&repeat=false&width=750&height=80&lines=Deoxyforge" alt="Deoxyforge" />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=58&duration=1&pause=99999&color=E8C96A&center=true&vCenter=true&repeat=false&width=820&height=90&lines=DEOXY+FORGE" alt="DEOXY FORGE" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=16&duration=99999&pause=99999&color=5a5078&center=true&vCenter=true&repeat=false&width=750&height=32&lines=D+I+P+E+S+H+%26nbsp%3B+K+U+M+A+R+%26nbsp%3B+%E2%80%94+%26nbsp%3B+F+O+R+G+I+N+G+%26nbsp%3B+T+H+E+%26nbsp%3B+F+U+T+U+R+E" alt="Dipesh Kumar" />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=16&duration=1&pause=99999&color=5a5078&center=true&vCenter=true&repeat=false&width=750&height=32&lines=D+I+P+E+S+H+%26nbsp%3B+K+U+M+A+R+%26nbsp%3B+%E2%80%94+%26nbsp%3B+F+O+R+G+I+N+G+%26nbsp%3B+T+H+E+%26nbsp%3B+F+U+T+U+R+E" alt="Dipesh Kumar" />
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=22&duration=3200&pause=900&color=9080C0&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=48&lines=Architect+of+Intelligent+Systems;AI+%C2%B7+Design+%C2%B7+Development;Building+EchoLens+%C2%B7+Attorno;Less+Noise.+More+Impact." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=22&duration=1800&pause=600&color=9080C0&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=48&lines=Architect+of+Intelligent+Systems;AI+%C2%B7+Design+%C2%B7+Development;Building+EchoLens+%C2%B7+Attorno;Less+Noise.+More+Impact." alt="Typing SVG" />
 
 </div>
 
