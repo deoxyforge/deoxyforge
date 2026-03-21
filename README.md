@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- ROYAL CROWN HEADER SVG -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=DEOXYFORGE&fontSize=70&fontColor=FFD700&fontAlignY=55&animation=twinkling&desc=Dipesh%20Kumar%20%E2%80%94%20Forging%20the%20Future&descAlignY=78&descColor=C9A84C&stroke=8B6914&strokeWidth=2" width="100%" />
+<!-- HERO BANNER — brand gradient: gold · purple · blue -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,6,24,30&height=220&section=header&text=DEOXYFORGE&fontSize=72&fontColor=e8c96a&fontAlignY=52&animation=twinkling&desc=Dipesh%20Kumar%20%E2%80%94%20Forging%20the%20Future&descAlignY=76&descColor=9080c0&stroke=7850dc&strokeWidth=1" width="100%" />
 
 </div>
 
@@ -9,9 +9,8 @@
 
 <div align="center">
 
-<!-- Animated Typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=22&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=⚜+Architect+of+Intelligent+Systems+⚜;⚜+AI+%7C+Design+%7C+Development+⚜;⚜+Less+Noise.+More+Impact.+⚜" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=20&duration=3200&pause=900&color=E8C96A&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=48&lines=Architect+of+Intelligent+Systems;AI+%C2%B7+Design+%C2%B7+Development;Building+EchoLens+%C2%B7+Attorno;Less+Noise.+More+Impact." alt="Typing SVG" />
 </a>
 
 </div>
@@ -22,35 +21,34 @@
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="55%" valign="top">
+<td width="54%" valign="top">
 
 ## ◈ &nbsp;The Forge
 
 > *"In the crucible of code, raw ideas become living intelligence."*
 
-I am **Dipesh Kumar** — a builder operating at the intersection of **Artificial Intelligence**, **Elegant Design**, and **Precision Engineering**.
+I am **Dipesh Kumar** — architect of intelligent systems operating at the intersection of **Artificial Intelligence**, **Elegant Design**, and **Precision Engineering**.
 
-My craft: transforming complex problems into clean, purposeful digital realities. Every system I build carries a singular obsession — *intentionality over noise*.
+My craft: transforming complex problems into purposeful digital realities. Every system I build carries one obsession — *less noise, more impact.*
 
 <br/>
 
-**Current Dominion:**
-- 👁️ &nbsp;**EchoLens** — AI-powered eyewear intelligence
+**Current Dominions:**
+- 👁 &nbsp;**EchoLens** — AI-powered eyewear intelligence
 - ⚖️ &nbsp;**Attorno** — Legal AI, reimagined
-- 🔮 &nbsp;Forging what comes next...
+- ◈ &nbsp;Next Forge — being shaped in the crucible
 
 </td>
-<td width="5%"></td>
+<td width="6%"></td>
 <td width="40%" valign="top" align="center">
 
 <br/>
 
-<!-- Royal Stats Card -->
-![Dipesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deoxyforge&show_icons=true&theme=midnight-purple&bg_color=0D0D0D&title_color=FFD700&icon_color=C9A84C&text_color=E8D5A3&border_color=8B6914&border_radius=12&hide_border=false&include_all_commits=true&count_private=true)
+![Dipesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deoxyforge&show_icons=true&bg_color=080810&title_color=e8c96a&icon_color=c9a0f0&text_color=9080c0&border_color=7850dc&border_radius=4&hide_border=false&include_all_commits=true&count_private=true)
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deoxyforge&layout=compact&theme=midnight-purple&bg_color=0D0D0D&title_color=FFD700&text_color=E8D5A3&border_color=8B6914&border_radius=12)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deoxyforge&layout=compact&bg_color=080810&title_color=e8c96a&text_color=9080c0&border_color=7850dc&border_radius=4)
 
 </td>
 </tr>
@@ -60,31 +58,31 @@ My craft: transforming complex problems into clean, purposeful digital realities
 
 <div align="center">
 
-## ⚜ &nbsp;Arsenal of the Forge &nbsp;⚜
+## ◈ &nbsp;Arsenal &nbsp;◈
 
-<!-- AI & ML -->
-![Python](https://img.shields.io/badge/Python-%23FFD700.svg?style=for-the-badge&logo=python&logoColor=0D0D0D)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23C9A84C.svg?style=for-the-badge&logo=PyTorch&logoColor=0D0D0D)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%238B6914.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-%23FFD700.svg?style=for-the-badge&logo=chainlink&logoColor=0D0D0D)
-![OpenAI](https://img.shields.io/badge/OpenAI-%23C9A84C.svg?style=for-the-badge&logo=openai&logoColor=0D0D0D)
+<!-- AI / ML -->
+![Python](https://img.shields.io/badge/Python-%23e8c96a.svg?style=for-the-badge&logo=python&logoColor=080810)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23c9a0f0.svg?style=for-the-badge&logo=PyTorch&logoColor=080810)
+![LangChain](https://img.shields.io/badge/LangChain-%23e8c96a.svg?style=for-the-badge&logo=chainlink&logoColor=080810)
+![OpenAI](https://img.shields.io/badge/OpenAI-%237850dc.svg?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%234a8fd4.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 <br/>
 
 <!-- Dev -->
-![TypeScript](https://img.shields.io/badge/TypeScript-%23FFD700.svg?style=for-the-badge&logo=typescript&logoColor=0D0D0D)
-![React](https://img.shields.io/badge/React-%23C9A84C.svg?style=for-the-badge&logo=react&logoColor=0D0D0D)
-![Next.js](https://img.shields.io/badge/Next.js-%23FFD700.svg?style=for-the-badge&logo=next.js&logoColor=0D0D0D)
-![Node.js](https://img.shields.io/badge/Node.js-%238B6914.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%23C9A84C.svg?style=for-the-badge&logo=fastapi&logoColor=0D0D0D)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23e8c96a.svg?style=for-the-badge&logo=typescript&logoColor=080810)
+![React](https://img.shields.io/badge/React-%23c9a0f0.svg?style=for-the-badge&logo=react&logoColor=080810)
+![Next.js](https://img.shields.io/badge/Next.js-%23e8c96a.svg?style=for-the-badge&logo=next.js&logoColor=080810)
+![FastAPI](https://img.shields.io/badge/FastAPI-%234a8fd4.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%237850dc.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
 <br/>
 
-<!-- Cloud/Tools -->
-![Docker](https://img.shields.io/badge/Docker-%23FFD700.svg?style=for-the-badge&logo=docker&logoColor=0D0D0D)
-![AWS](https://img.shields.io/badge/AWS-%23C9A84C.svg?style=for-the-badge&logo=amazon-aws&logoColor=0D0D0D)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%238B6914.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23FFD700.svg?style=for-the-badge&logo=figma&logoColor=0D0D0D)
+<!-- Cloud -->
+![Docker](https://img.shields.io/badge/Docker-%23c9a0f0.svg?style=for-the-badge&logo=docker&logoColor=080810)
+![AWS](https://img.shields.io/badge/AWS-%23e8c96a.svg?style=for-the-badge&logo=amazon-aws&logoColor=080810)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234a8fd4.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%237850dc.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -100,11 +98,11 @@ My craft: transforming complex problems into clean, purposeful digital realities
 <tr>
 <td align="center" width="33%">
 
-**👁️ EchoLens**
+**👁 EchoLens**
 <br/>
 *AI Eyewear Intelligence*
 <br/>
-<sub>Vision-augmented cognition for the modern era. Smart eyewear that listens, sees, and understands.</sub>
+<sub>Vision-augmented cognition. Smart eyewear that listens, sees, and understands.</sub>
 
 </td>
 <td align="center" width="34%">
@@ -118,11 +116,11 @@ My craft: transforming complex problems into clean, purposeful digital realities
 </td>
 <td align="center" width="33%">
 
-**🔮 The Next Forge**
+**◈ Next Forge**
 <br/>
-*In Development*
+*In the Crucible*
 <br/>
-<sub>Something is being forged in the crucible. The future does not announce itself.</sub>
+<sub>Something is being forged. The future does not announce itself.</sub>
 
 </td>
 </tr>
@@ -134,13 +132,13 @@ My craft: transforming complex problems into clean, purposeful digital realities
 
 <div align="center">
 
-## ⚜ &nbsp;Activity &nbsp;⚜
+## ◈ &nbsp;Activity &nbsp;◈
 
-![GitHub Streak](https://streak-stats.demolab.com?user=deoxyforge&theme=dark&background=0D0D0D&border=8B6914&ring=FFD700&fire=C9A84C&currStreakNum=FFD700&sideNums=C9A84C&currStreakLabel=C9A84C&sideLabels=8B6914&dates=E8D5A3&border_radius=12)
+![GitHub Streak](https://streak-stats.demolab.com?user=deoxyforge&theme=dark&background=080810&border=7850dc&ring=e8c96a&fire=c9a0f0&currStreakNum=e8c96a&sideNums=c9a0f0&currStreakLabel=c9a0f0&sideLabels=7850dc&dates=9080c0&border_radius=4)
 
 <br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deoxyforge&bg_color=0d0d0d&color=FFD700&line=C9A84C&point=8B6914&area=true&area_color=FFD700&hide_border=false&border_color=8B6914&radius=8)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deoxyforge&bg_color=080810&color=e8c96a&line=7850dc&point=c9a0f0&area=true&area_color=7850dc&hide_border=false&border_color=7850dc&radius=4)
 
 </div>
 
@@ -148,22 +146,21 @@ My craft: transforming complex problems into clean, purposeful digital realities
 
 <div align="center">
 
-## ◈ &nbsp;Audience with the Forge &nbsp;◈
+## ◈ &nbsp;Connect &nbsp;◈
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23FFD700.svg?style=for-the-badge&logo=linkedin&logoColor=0D0D0D)](https://linkedin.com/in/deoxyforge)
-[![X / Twitter](https://img.shields.io/badge/X%20%2F%20Twitter-%23C9A84C.svg?style=for-the-badge&logo=x&logoColor=0D0D0D)](https://twitter.com/deoxyforge)
-[![Email](https://img.shields.io/badge/Email-%238B6914.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipesh@deoxyforge.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-%23FFD700.svg?style=for-the-badge&logo=github&logoColor=0D0D0D)](https://github.com/deoxyforge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23e8c96a.svg?style=for-the-badge&logo=linkedin&logoColor=080810)](https://www.linkedin.com/in/dipesh-kumar-10b511319)
+[![Instagram](https://img.shields.io/badge/Instagram-%237850dc.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deoxy_gfx)
+[![YouTube](https://img.shields.io/badge/YouTube-%23c9a0f0.svg?style=for-the-badge&logo=youtube&logoColor=080810)](https://www.youtube.com/@deoxygfx592)
+[![Email](https://img.shields.io/badge/Email-%234a8fd4.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactdeoxygfx@gmail.com)
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=deoxyforge&color=8B6914&style=for-the-badge&label=ROYAL+VISITORS)
+![Profile Views](https://komarev.com/ghpvc/?username=deoxyforge&color=7850dc&style=for-the-badge&label=VISITORS)
 
 <br/><br/>
 
-<!-- Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=⚜%20Less%20Noise.%20More%20Impact.%20⚜&fontSize=18&fontColor=FFD700&fontAlignY=70&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,24,30&height=110&section=footer&text=Less+Noise.+More+Impact.&fontSize=18&fontColor=e8c96a&fontAlignY=68&animation=twinkling" width="100%" />
 
 </div>
