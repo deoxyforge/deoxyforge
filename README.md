@@ -1,7 +1,14 @@
 <div align="center">
 
-<!-- HERO BANNER — brand gradient: gold · purple · blue -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,6,24,30&height=220&section=header&text=DEOXYFORGE&fontSize=72&fontColor=e8c96a&fontAlignY=52&animation=twinkling&desc=Dipesh%20Kumar%20%E2%80%94%20Forging%20the%20Future&descAlignY=76&descColor=9080c0&stroke=7850dc&strokeWidth=1" width="100%" />
+<!-- LOGO — upload deoxygfx.png to this repo and it will appear here -->
+
+
+<!-- PREMIUM SVG HEADER — Cormorant Garamond thin serif -->
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=58&duration=99999&pause=99999&color=E8C96A&center=true&vCenter=true&repeat=false&width=750&height=80&lines=Deoxyforge" alt="Deoxyforge" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=16&duration=99999&pause=99999&color=5a5078&center=true&vCenter=true&repeat=false&width=750&height=32&lines=D+I+P+E+S+H+%26nbsp%3B+K+U+M+A+R+%26nbsp%3B+%E2%80%94+%26nbsp%3B+F+O+R+G+I+N+G+%26nbsp%3B+T+H+E+%26nbsp%3B+F+U+T+U+R+E" alt="Dipesh Kumar" />
 
 </div>
 
@@ -9,9 +16,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=20&duration=3200&pause=900&color=E8C96A&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=48&lines=Architect+of+Intelligent+Systems;AI+%C2%B7+Design+%C2%B7+Development;Building+EchoLens+%C2%B7+Attorno;Less+Noise.+More+Impact." alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=22&duration=3200&pause=900&color=9080C0&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=48&lines=Architect+of+Intelligent+Systems;AI+%C2%B7+Design+%C2%B7+Development;Building+EchoLens+%C2%B7+Attorno;Less+Noise.+More+Impact." alt="Typing SVG" />
 
 </div>
 
