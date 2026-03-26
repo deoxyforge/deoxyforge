@@ -126,48 +126,6 @@ My craft: transforming complex problems into purposeful digital realities. Every
 
 <div align="center">
 
-## ◈ &nbsp;Dominions &nbsp;◈
-
-<br/>
-
-<table border="0">
-<tr>
-<td align="center" width="33%">
-
-**👁 EchoLens**
-<br/>
-*AI Eyewear Intelligence*
-<br/>
-<sub>Vision-augmented cognition. Smart eyewear that listens, sees, and understands.</sub>
-
-</td>
-<td align="center" width="34%">
-
-**⚖️ Attorno**
-<br/>
-*Legal AI Platform*
-<br/>
-<sub>Democratizing legal intelligence. Precision NLP meets the complexity of jurisprudence.</sub>
-
-</td>
-<td align="center" width="33%">
-
-**◈ Next Forge**
-<br/>
-*In the Crucible*
-<br/>
-<sub>Something is being forged. The future does not announce itself.</sub>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
 ## ◈ &nbsp;Activity &nbsp;◈
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=deoxyforge&theme=dark&background=080810&border=7850dc&ring=e8c96a&fire=c9a0f0&currStreakNum=e8c96a&sideNums=c9a0f0&currStreakLabel=c9a0f0&sideLabels=7850dc&dates=9080c0&border_radius=4)
