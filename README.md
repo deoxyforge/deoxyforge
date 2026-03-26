@@ -39,29 +39,60 @@ My craft: transforming complex problems into purposeful digital realities. Every
 <br/>
 
 **Current Dominions:**
-- 👁 &nbsp;**EchoLens** — AI-powered eyewear intelligence
-- ⚖️ &nbsp;**Attorno** — Legal AI, reimagined
-- ◈ &nbsp;Next Forge — being shaped in the crucible
+---
+
+<div align="center">
+
+## ◈ &nbsp;Dominions &nbsp;◈
+
+<br/>
+
+<table border="0">
+<tr>
+<td align="center" width="25%">
+
+**👁 EchoLens**
+<br/>
+*AI Eyewear Intelligence*
+<br/>
+<sub>Vision-augmented cognition. Smart eyewear that listens, sees, and understands.</sub>
 
 </td>
-<td width="6%"></td>
-<td width="40%" valign="top" align="center">
+<td align="center" width="25%">
 
+**⚖️ Attorno**
 <br/>
-
-![Dipesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deoxyforge&show_icons=true&bg_color=080810&title_color=e8c96a&icon_color=c9a0f0&text_color=9080c0&border_color=7850dc&border_radius=4&hide_border=false&include_all_commits=true&count_private=true)
-
+*Legal AI Platform*
 <br/>
+<sub>Democratizing legal intelligence. Precision NLP meets the complexity of jurisprudence.</sub>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deoxyforge&layout=compact&bg_color=080810&title_color=e8c96a&text_color=9080c0&border_color=7850dc&border_radius=4)
+</td>
+<td align="center" width="25%">
+
+**🌤️ SkyView**
+<br/>
+*Weather Dashboard*
+<br/>
+<sub>Live weather, 5-day forecast & hourly data. Built with HTML, CSS & JavaScript.</sub>
+<br/><br/>
+<a href="https://deoxyforge.github.io/-weather-dashboard/">![Live Demo](https://img.shields.io/badge/Live%20Demo-%23e8c96a.svg?style=flat-square&logo=github&logoColor=080810)</a>
+
+</td>
+<td align="center" width="25%">
+
+**◈ Next Forge**
+<br/>
+*In the Crucible*
+<br/>
+<sub>Something is being forged. The future does not announce itself.</sub>
 
 </td>
 </tr>
 </table>
 
----
+</div>
 
-<div align="center">
+---
 
 ## ◈ &nbsp;Arsenal &nbsp;◈
 
